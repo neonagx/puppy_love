@@ -24,6 +24,7 @@ header {
   background-color: white;
   border-bottom: solid black;
   text-shadow: 20px;
+  font-family: 'Yatra One', cursive;
 }
 
 ul {
@@ -40,6 +41,11 @@ img {
   width: 400px;
 }
 
+h2 {
+  font-family: "Baloo Bhai";
+  text-decoration: underline;
+}
+
 li {
   font-size: 20px;
 }
@@ -48,6 +54,8 @@ footer {
   background-color: white;
   border-radius: 10px;
   border: solid gray;
+  text-align: left;
+  font-family: 'Yatra One', cursive;
 }
 
 #Sub {
